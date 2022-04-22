@@ -1729,3 +1729,7 @@ https://sous-chefs.org/
 ### Test-Kitchen
 Test Kitchen is an OpenSource integration tool for developing and testing infrastructure code and software on isolated target platforms.
 <https://kitchen.ci>
+
+### Virtualmin API
+A Virtualmin API designed to run standalone or as part of a Laravel Application.
+https://github.com/fintech-systems/virtualmin-api
